@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "status": "paid",
+    "description": "Mobile",
+    "data": "2024-12-03T10:30:40.282Z"
+  },
+  {
+    "id": 2,
+    "status": "paid",
+    "description": "Laptop",
+    "data": "2023-11-07T10:30:40.282Z"
+  },
+  {
+    "id": 3,
+    "status": "paid",
+    "description": "Charger",
+    "data": "2024-12-03T10:30:40.282Z"
+  },
+  {
+    "id": 6,
+    "status": "paid",
+    "description": "Ear-phones",
+    "data": "2024-10-03T10:30:40.282Z"
+  }
+]
